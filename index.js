@@ -2,7 +2,7 @@ const WPAPI = require("wpapi");
 const { Configuration, OpenAIApi } = require("openai");
 const { createClient } = require("pexels");
 const configuration = new Configuration({
-  apiKey: "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",
+  apiKey: "/*/*/*/*/*/*/*/*/*/*/*/*/",
 });
 
 const openai = new OpenAIApi(configuration);
