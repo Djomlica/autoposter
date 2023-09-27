@@ -14,7 +14,7 @@ Before you begin, ensure you have the following prerequisites installed on your 
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Djomlica/autoposter_node
 
 2. Navigate to the project directory:
 
